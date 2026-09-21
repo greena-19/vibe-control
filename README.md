@@ -1,9 +1,9 @@
 
-# 🎧 VIBE CONTROL (Flutter)
+# VIBE CONTROL (Flutter)
 
 A sleek, interactive 3D neomorphic music control deck built with Flutter and Dart, demonstrating micro-interactions and state management.
 
-## ✨ Features
+## Features
 
 - **3D Music Control Buttons**: PLAY, PAUSE, NEXT, and VOLUME buttons built using dual opposing `BoxShadow` effects and `GestureDetector`.
 - **Live Music Dashboard**: Real-time tap counts, energy calibration slider, and music status updates.
@@ -11,13 +11,13 @@ A sleek, interactive 3D neomorphic music control deck built with Flutter and Dar
 - **Adaptive Theme System**: Seamless switching between dark and light modes.
 - **Modular Component Design**: Reusable `TactileButton` widget architecture.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Framework**: Flutter (Material 3)
 - **Language**: Dart
 - **Key Widgets**: `StatefulWidget`, `GestureDetector`, `AnimatedContainer`, `Slider`, `Wrap`
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository.
 2. Run `flutter pub get`.
